@@ -1,1 +1,1 @@
-# Creating a table with HTML and CSS
+# Creating a list with HTML and CSS
